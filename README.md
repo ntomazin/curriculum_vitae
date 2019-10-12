@@ -1,2 +1,2 @@
 # curriculum_vitae
-Repozitorij za moj CV
+Repository for my cv
